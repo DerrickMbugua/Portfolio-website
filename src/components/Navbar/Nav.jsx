@@ -27,10 +27,10 @@ const Nav = () => {
                                             to="/about"
                                             className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                                         >
-                                            About
+                                            Create
                                         </Link>
 
-                                        <a
+                                        {/* <a
                                             href="/projects"
                                             className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                                         >
@@ -49,7 +49,7 @@ const Nav = () => {
                                             className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                                         >
                                             Contact
-                                        </a>
+                                        </a> */}
                                     </div>
                                 </div>
                             </div>
@@ -123,10 +123,10 @@ const Nav = () => {
                                         href="/about"
                                         className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                                     >
-                                        About
+                                        create
                                     </Link>
 
-                                    <a
+                                    {/* <a
                                         href="/projects"
                                         className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                                     >
@@ -145,7 +145,7 @@ const Nav = () => {
                                         className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                                     >
                                         Contact
-                                    </a>
+                                    </a> */}
                                 </div>
                             </div>
                         )}
